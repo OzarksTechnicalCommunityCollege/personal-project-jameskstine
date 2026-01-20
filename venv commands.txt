@@ -1,0 +1,10 @@
+python3 -m venv .venv
+source .venv/bin/activate
+
+then
+
+pip install django
+
+then
+
+Open a python file and switch the version in the bottom right to the venv.
